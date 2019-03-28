@@ -1,0 +1,119 @@
+﻿
+header {
+    width: 100%;
+    background-color: #000000c7;
+    color: #856404;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 10px;
+    overflow: hidden;
+    height: 106px;
+}
+
+hgroup {
+    width: 60%;
+    float: left;
+}
+
+    hgroup h1 {
+        padding-top: 0;
+        font-size:2em;
+        line-height: 1em;
+    }
+
+    hgroup h2 {
+        text-transform: uppercase;
+        font-size: 0.5em;
+        line-height: 1em;
+        padding-top: 1rem;
+    }
+h3 {
+    font-size: .75rem;
+    padding-top: 5px;
+    padding-left: 20px;
+    color: #b81b0b;
+}
+
+nav {
+    width: 40%;
+    float: right;
+    color: #5DADE2;
+    padding-top: 2rem;
+}
+
+ul {
+    list-style-type: none;
+}
+
+nav li {
+    float: left;
+    margin-right: 20px;
+}
+row {
+    width: 100%;
+    
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    background-color: #b4d8c2;
+}
+
+column {
+    background-color: #8ec7b457;
+    padding-left:10px;
+}
+label {
+    padding-left: 20px;
+    padding-top: 50px;
+    font-size: 15px;
+    padding-right:5px;
+}
+
+TextBox {
+    padding-left: 5px;
+    padding-top: 50px;
+}
+
+.button {
+    margin-top: 1em;
+    width: 10em;
+    color: darkblue;
+}
+
+#btnSubmit {
+    margin-left: 4em;
+}
+
+#btnClear {
+    margin-left: 1em;
+}
+
+#lblMessage {
+    padding-left: 30px;
+    margin-left: 5em;
+    color: chocolate;
+    font-family: 'Monotype Corsiva';
+    font-size: 150%;
+}
+
+#lblHead {
+    font-size: 30%;
+}
+.validator {
+    font-size: 95%;
+    color: red;
+    margin-left: 1em;
+}
+
+footer {
+    width: 100%;
+    background-color: #000000c7;
+    color: #856404;
+    margin-right: auto;
+    margin-left: auto;
+    height: 106px;
+    padding: 10px;
+}
