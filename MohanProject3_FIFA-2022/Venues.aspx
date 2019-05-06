@@ -20,11 +20,12 @@
     </hgroup>
     <nav>
         <ul>
-            <li><a href="FIFA_2022_Qatar_Visit_Plan.aspx">Home</a></li>
+            <li><a href="default.aspx">Home</a></li>
             <li><a href="About_Qatar.aspx">About Qatar</a></li>
             <li><a href="Venues.aspx">Venues</a></li>
             <li><a href="Lodging.aspx">Lodging</a></li>
             <li><a href="Register.aspx">Register</a></li>
+            <li><a href="Store.aspx">FIFA Store</a></li>
         </ul>
     </nav> 
 </header>
@@ -52,11 +53,12 @@
 <small>Copyright &copy; 2019 Anju Mohan</small>
   <nav>
     <ul>
-      <li><a href="FIFA_2022_Qatar_Visit_Plan.aspx">Home</a></li>
+      <li><a href="default.aspx">Home</a></li>
       <li><a href="About_Qatar.aspx">About Qatar</a></li>
       <li><a href="Venues.aspx">Venues</a></li>
       <li><a href="Lodging.aspx">Lodging</a></li>
       <li><a href="Register.aspx">Register</a></li>
+      <li><a href="Store.aspx">FIFA Store</a></li>
     </ul>
   </nav>
 </footer>

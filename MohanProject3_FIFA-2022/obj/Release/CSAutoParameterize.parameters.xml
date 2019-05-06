@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="Hotel_ClassConnectionString-Web.config Connection String" description="Hotel_ClassConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=fifa2022.database.windows.net;Initial Catalog=FIFA2022;User ID=anjufifa2022;Password=Firstsite@fifa;Connect Timeout=60;Encrypt=True;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Spring\ 2019\\6240-Website\ Development\\MohanProject3_FIFA-2022\\MohanProject3_FIFA-2022\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Hotel_ClassConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
